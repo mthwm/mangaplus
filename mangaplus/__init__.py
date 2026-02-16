@@ -1,4 +1,4 @@
 from .shueisha import MangaPlus
 
-__version__ = '1.23.2'
+__version__ = '2026.1'
 __all__ = (__version__, 'MangaPlus')

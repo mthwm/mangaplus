@@ -12,7 +12,7 @@ class MangaPlus:
     """Python client for interacting with the MangaPlus API."""
 
     # @package jp.co.shueisha.mangaplus.api.ApiFactory;
-    APP_VERSION = 222
+    APP_VERSION = 311
 
     def __init__(
             self,
